@@ -1,11 +1,13 @@
-var NumberOfWords = 3
+var NumberOfWords = 5
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "https://file-link.net/127891/MinecraftAccount200" 
-words[2] = "https://file-link.net/127891/MinecraftAccount201" 
-words[3] = "https://file-link.net/127891/MinecraftAccount202" 
+words[1] = "http://gestyy.com/erM0Ow" 
+words[2] = "http://gestyy.com/erM0Dr" 
+words[3] = "http://gestyy.com/erM0J9" 
+words[4] = "http://gestyy.com/erM0Vr" 
+words[5] = "http://gestyy.com/erM04t"
 
 function BuildArray(size){
 this.length = size
