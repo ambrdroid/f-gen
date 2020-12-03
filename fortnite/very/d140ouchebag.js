@@ -3,7 +3,7 @@ var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "not aviable" 
+words[1] = "http://gestyy.com/erMo3a"  
 
 
 function BuildArray(size){
