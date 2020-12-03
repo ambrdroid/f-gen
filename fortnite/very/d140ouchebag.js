@@ -4,7 +4,7 @@ var words = new BuildArray(NumberOfWords)
 // Use the following variables to 
 // define your random words:
 words[1] = "http://gestyy.com/erMo3a"  
-
+words[2] = "http://gestyy.com/erMpwe" 
 
 function BuildArray(size){
 this.length = size
